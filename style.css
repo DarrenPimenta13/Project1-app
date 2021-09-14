@@ -1,0 +1,25 @@
+body{
+  color: white;
+background-color: black;
+}
+h1{
+  color: red;
+  text-decoration-line: underline;
+  font-weight: 700;
+  text-align: center;
+}
+img{
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+ 
+}
+h3{
+  color: red;
+  text-decoration-line: underline;
+  text-align: center;
+}
+h5{
+  color:yellow;
+  text-align: right;
+}
